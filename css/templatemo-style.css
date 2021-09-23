@@ -22,7 +22,7 @@ a:focus {
 body{
     margin:0;
     padding:0;
-    background-image:url(../images/tm-catalyst-bg.jpg);
+    background-image:url(../images/tm-catalyst-bg.png);
     background-repeat:repeat-y;
     background-size:cover;
     background-attachment: fixed;
@@ -31,6 +31,10 @@ body{
     font-weight:300;
 }
 .tm-logo { margin-bottom: 25px; }
+
+.logoo {
+    max-width: 400px;
+}
 
 p {
     margin: 0 0 20px;
@@ -394,4 +398,12 @@ h1 { font-size: 54px; }
 @media screen and (max-width: 420px) {
     .background { padding: 40px 35px; }
     .background.content-item-1 { padding: 20px 25px; }
+}
+
+/*LOGO IMAGE*/
+
+@media screen and (max-width: 420px) {
+    .logoo {
+        max-width: 200px;
+    }
 }
