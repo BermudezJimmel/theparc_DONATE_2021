@@ -6,7 +6,7 @@ http://www.templatemo.com/tm-499-catalyst
 
 
 
-Pink #cc3467
+Pink #E27A39
 
 */
 
@@ -162,7 +162,7 @@ p {
 
 .tm-float-section-header {
     position: absolute;
-    background-color: #cc3467;
+    background-color: #E27A39;
     width: 90%;
     left: 0;
     right: 0;
@@ -193,7 +193,7 @@ p {
 h1 { font-size: 54px; }
 
 .tm-btn-primary { 
-    background-color: #cc3467; 
+    background-color: #E27A39; 
     color: white;
 }
 
@@ -242,13 +242,13 @@ h1 { font-size: 54px; }
 }
 
 .tm-pink-border-tr {
-    border-top: 15px solid #cc3467;
-    border-right: 15px solid #cc3467;
+    border-top: 15px solid #E27A39;
+    border-right: 15px solid #E27A39;
 }
 
 .tm-pink-border-bl {
-    border-bottom: 15px solid #cc3467;
-    border-left: 15px solid #cc3467;
+    border-bottom: 15px solid #E27A39;
+    border-left: 15px solid #E27A39;
 }
 
 .tm-left-col,
@@ -282,6 +282,7 @@ h1 { font-size: 54px; }
 .tm-logo-box {
     text-align: center;
     padding-top: 140px;
+    padding-bottom: 140px;
 }
 
 @media screen and (max-width:1199px){
