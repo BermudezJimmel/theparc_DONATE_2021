@@ -33,7 +33,8 @@ body{
 .tm-logo { margin-bottom: 25px; }
 
 .logoo {
-    max-width: 400px;
+    max-width: 600px;
+    padding-top: 100px;
 }
 
 p {
