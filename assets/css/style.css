@@ -550,41 +550,7 @@ section {
 /*--------------------------------------------------------------
 # SLider Gallery Marquee
 --------------------------------------------------------------*/
-.btn-container {
-  display: flex;
-  justify-content: center;
-}
 
-.trusted {
-  width: 80%;
-  margin: 0 auto;
-}
-
-.trusted-row {
-  margin: 0 auto;
-  display: flex;
-  flex-wrap: nowrap;
-  overflow-x: hidden;
-  align-items: center;
-}
-
-.trusted-row img {
-  width: 500px;
-  margin: 20px;
-}
-
-@media (max-width: 1000px) {
-  .trusted {
-    width: 100%;
-  }
-  .trusted-row img {
-    width: 100px;
-    margin: 20px;
-  }
-  .section-subtitle {
-    width: 100%;
-  }
-}
 
 /*--------------------------------------------------------------
 # About
