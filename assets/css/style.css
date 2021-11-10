@@ -543,9 +543,19 @@ section {
   font-weight: 700;
   margin: 0 0 30px 0;
 }
+.why-us .icon-boxes .icon-box h5 {
+  font-size: 15px;
+  font-weight: 700;
+  margin: 0 0 30px 0;
+  text-align: justify;
+  text-justify: inter-word;
+  text-align: center;
+}
 .why-us .icon-boxes .icon-box p {
   font-size: 15px;
   color: #716f6f;
+  text-align: justify;
+  text-justify: inter-word;
 }
 
 
