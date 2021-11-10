@@ -139,6 +139,8 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 3;
 }
 
+
+
 /*--------------------------------------------------------------
 # Navigation Menu
 --------------------------------------------------------------*/
@@ -556,7 +558,7 @@ section {
   
   .marquee-content {
     display: flex;
-    animation: scrolling 30s linear infinite;
+    animation: scrolling 50s linear infinite;
   }
   
   .marquee-item {
@@ -594,7 +596,7 @@ section {
 
     .marquee-content {
       display: flex;
-      animation: scrolling 15s linear infinite;
+      animation: scrolling 30s linear infinite;
     }
 
 
@@ -618,7 +620,7 @@ section {
 
     .marquee-content {
       display: flex;
-      animation: scrolling 5s linear infinite;
+      animation: scrolling 30s linear infinite;
     }
 
 }
@@ -1910,9 +1912,9 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  color: #313030;
+  color: white;
   font-size: 14px;
-  background: #fff;
+  background: #FF5821;
 }
 #footer .footer-top {
   padding: 60px 0 30px 0;
