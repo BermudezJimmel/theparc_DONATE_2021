@@ -9,7 +9,7 @@
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Poppins", sans-serif;
   color: #313030;
 }
 
@@ -24,7 +24,7 @@ a:hover {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Raleway", sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 
 /*--------------------------------------------------------------
@@ -537,7 +537,7 @@ section {
   margin-bottom: 30px;
 }
 .why-us .icon-boxes .icon-box h4 {
-  font-size: 20px;
+  font-size: 34px;
   font-weight: 700;
   margin: 0 0 30px 0;
 }
