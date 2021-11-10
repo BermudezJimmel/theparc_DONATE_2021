@@ -1913,11 +1913,15 @@ section {
 --------------------------------------------------------------*/
 #footer {
   color: white;
-  font-size: 14px;
+  font-size: 12px;
   background: #FF5821;
 }
+#footer a{ 
+  color: white;
+  
+}
 #footer .footer-top {
-  padding: 60px 0 30px 0;
+  padding: 30px 0 30px 0;
   background: #fff9f7;
 }
 #footer .footer-top .footer-contact {
