@@ -645,6 +645,9 @@ section {
   color: #7f6d68;
   margin-bottom: 15px;
 }
+.about .icon-boxes p {
+  text-align: justify;
+}
 .about .icon-boxes h3 {
   font-size: 28px;
   font-weight: 700;
