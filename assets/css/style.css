@@ -562,9 +562,7 @@ section {
 /*--------------------------------------------------------------
 # SLider Gallery Marquee
 --------------------------------------------------------------*/
-.marquee {
-  /*   overflow: hidden; */
-  }
+
   
   .marquee-content {
     display: flex;
