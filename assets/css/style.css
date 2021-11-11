@@ -654,10 +654,33 @@ section {
   color: #554945;
   margin-bottom: 15px;
 }
-.about .icon-boxes img {
+.about .icon-boxess img {
   max-width: 300px;
   
 }
+
+.about .icon-boxess .poweredby {
+  align-self: flex-end;
+  
+}
+
+
+/* Portrait and Landscape */
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 480px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+
+    .about .icon-boxess .poweredby{
+      margin-right: 50px;
+      
+    }
+
+}
+
+
+
+
 .about .icon-box {
   margin-top: 40px;
 }
