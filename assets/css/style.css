@@ -661,7 +661,7 @@ section {
 
 .about .icon-boxess .poweredby {
   align-self: flex-end;
-  
+  margin-bottom: 200px;
 }
 
 @media only screen 
@@ -1964,7 +1964,6 @@ section {
   color: white;
   font-size: 12px;
   background: #FF5821;
-  margin-top: 200px;
 }
 #footer a{ 
   color: white;
