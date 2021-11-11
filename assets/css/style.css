@@ -641,6 +641,7 @@ section {
 /*--------------------------------------------------------------
 # About
 --------------------------------------------------------------*/
+
 .about .icon-boxes h4 {
   font-size: 18px;
   color: #7f6d68;
@@ -652,9 +653,14 @@ section {
   color: #554945;
   margin-bottom: 15px;
 }
+.about .icon-boxes img {
+  max-width: 200px;
+  
+}
 .about .icon-box {
   margin-top: 40px;
 }
+
 .about .icon-box .icon {
   float: left;
   display: flex;
@@ -697,7 +703,7 @@ section {
   font-size: 14px;
 }
 .about .video-box {
-  background: url("../img/about-img.jpg") center center no-repeat;
+  background: url("../img/paymongosecure.png") center center no-repeat;
   background-size: cover;
   min-height: 500px;
 }
